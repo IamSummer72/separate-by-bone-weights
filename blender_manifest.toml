@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "separate_by_bone_weights"
+version = "1.0.0"
+name = "Separate by Bone Weights"
+tagline = "Separate a mesh into objects by dominant bone weight"
+maintainer = "Summer"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["Object", "Rigging", "Mesh"]
